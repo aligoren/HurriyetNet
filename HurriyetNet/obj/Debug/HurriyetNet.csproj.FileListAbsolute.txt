@@ -1,0 +1,7 @@
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\bin\Debug\HurriyetNet.dll
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\bin\Debug\HurriyetNet.pdb
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\bin\Debug\Newtonsoft.Json.dll
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\bin\Debug\Newtonsoft.Json.xml
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\obj\Debug\HurriyetNet.csprojResolveAssemblyReference.cache
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\obj\Debug\HurriyetNet.dll
+E:\projects\yaptiklarim\HurriyetNet\HurriyetNet\obj\Debug\HurriyetNet.pdb

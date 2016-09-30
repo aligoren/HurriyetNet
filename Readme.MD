@@ -18,6 +18,8 @@ Install-Package Newtonsoft.Json
 
 # NuGet
 
+[https://www.nuget.org/packages/HurriyetNet/](https://www.nuget.org/packages/HurriyetNet/)
+
 [![NuGet Version](http://img.shields.io/nuget/v/HurriyetNet.svg?style=flat)](https://www.nuget.org/packages/HurriyetNet/)
 
 `Install-Package HurriyetNet`
